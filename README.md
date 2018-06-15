@@ -1,4 +1,4 @@
-# Project Space Theme
+# Project Space Skeleton
 
 ![Project Space](assets/readme.png)
 
