@@ -1,0 +1,14 @@
+title: Project Space
+author:
+author:
+  name: Joe Bloggs
+  email: 'joe@test.com'
+metadata:
+  description: 'A space for visualizing projects.'
+date_short: 'd-m-Y'
+taxonomies: [category,tag]
+categories:
+  - Idea
+  - Ongoing
+  - Done
+  - Archived
