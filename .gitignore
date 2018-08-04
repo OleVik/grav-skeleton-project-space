@@ -17,3 +17,8 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+config/media\.yaml
+
+config/security\.yaml
+
+config/streams\.yaml

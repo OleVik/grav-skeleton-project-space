@@ -1,12 +1,12 @@
 name: Project Space Skeleton
-version: 1.0.1
+version: 1.0.2
 description: Visualize projects in an organized manner, as notes on a board.
 icon: sticky-note
 author:
   name: Ole Vik
   email: git@olevik.net
 homepage: https://github.com/OleVik/grav-skeleton-project-space
-demo: http://demo.yoursite.com
+demo: https://olevik.me/staging/grav-skeleton-project-space
 keywords: grav, skeleton, project, projects, note, notes, visualize
 bugs: https://github.com/OleVik/grav-skeleton-project-space/issues
 readme: https://github.com/OleVik/grav-skeleton-project-space/blob/develop/README.md

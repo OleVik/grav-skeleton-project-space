@@ -34,4 +34,4 @@ git:
     quark:
         url: https://github.com/getgrav/grav-theme-quark
         path: user/themes/quark
-        branch: 1.0.3
+        branch: 1.1.0
